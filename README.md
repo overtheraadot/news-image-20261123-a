@@ -1,5 +1,9 @@
 # Front Page — Monday 23 November 2026: 35 stories, 7 regions
 
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/c/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/overtheraadot/news-image-20261123-a/rank.svg)](https://make.fun/c/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/overtheraadot/news-image-20261123-a/reward.svg)](https://make.fun/c/news-image-20261123)
+
 A newspaper front page summing up the world's news of **Monday 23 November 2026**
 in a single 1024×1024 image: 35 stories across 7 regions, led by the collapse
 of the COP31 climate talks in Antalya, with a world-map strip showing where
